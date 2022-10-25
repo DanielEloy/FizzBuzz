@@ -1,8 +1,8 @@
 package fizzbuzz;
 
 import java.util.stream.IntStream;
-//Daniel Eloy
 
+//Daniel Eloy
 public class MainFizzBuzz {
 
 	public static void main(String[] args) {
