@@ -1,0 +1,21 @@
+package fizzbuzz;
+
+public class MainFizzBuzzJava7 {
+
+    public static void main(String[] args) {
+        fizzBuzzBeforeJava8(100);// Antes do Java 8
+    }
+
+    private static void fizzBuzzBeforeJava8(int num) {
+        for (int i = 1; i <= num; i++) {
+            if (((i % 5) == 0) && ((i % 7) == 0)) // É multiplo por 5 e 7?
+                System.out.println("fizzbuzz");
+            else if ((i % 5) == 0) // É multiplo 5?
+                System.out.println("fizz");
+            else if ((i % 7) == 0) // É multiple of 7?
+                System.out.println("buzz");
+            else
+                System.out.println(i); // Não é um múltiplo de 5 ou 7
+        }
+    }
+}
