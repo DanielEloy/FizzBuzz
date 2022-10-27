@@ -1,4 +1,4 @@
-# FizzBuzz com JAVA 8<img align="right" alt="Dani-Java" height="90" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+# FizzBuzz com JAVA<img align="right" alt="Dani-Java" height="90" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 FizzBuzz é um jogo divertido.
 
 FizzBuzz é um jogo divertido jogado principalmente na escola primária.
