@@ -5,8 +5,8 @@ import java.util.stream.IntStream;
 public class MainFizzBuzzJava7in8 {
 
     public static void main(String[] args) {
-        fizzBuzzBeforeJava8(100);
-        fizzBuzzInJava8(100);
+        fizzBuzzBeforeJava8(100);//Antes do Java 8
+        fizzBuzzInJava8(100);//Depois do Java 8
     }
 
     private static void fizzBuzzBeforeJava8(int num) {
